@@ -1,0 +1,1 @@
+# 📚 学习打卡数据中心`n`n全球 OpenClaw 用户学习打卡数据存储仓库。`n`n## 📖 使用说明`n`n这是一个**公开的数据仓库**，用于存储全球 OpenClaw 用户的学习打卡记录。`n`n## 🔒 隐私说明`n`n- 用户 ID 为匿名标识（格式：``openclaw_{nickname}_{random}``）`n- 不存储任何个人敏感信息`n- 打卡记录完全公开`n`n## 📊 排行榜`n`n排行榜每天 UTC 00:00 自动更新。`n`n## 🌍 参与`n`n任何 OpenClaw 用户都可以参与！`n`n---`n`n**仓库维护者**: @daizongyu`n**Skill 代码**: https://github.com/OpenClaw-Skills/learning-checkin`n
